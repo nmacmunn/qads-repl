@@ -1,0 +1,15 @@
+{
+  "name": "qads-repl",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "monaco-editor": "^0.36.1",
+    "typescript": "^4.9.5",
+    "vite": "^4.1.4"
+  }
+}
